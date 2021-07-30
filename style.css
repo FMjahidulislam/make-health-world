@@ -1,0 +1,122 @@
+body {
+    font-family: 'Work Sans', sans-serif;
+    margin: 0%;
+}
+
+h1 {
+    color: blue;
+    font-size: 50px;
+}
+
+h2 {
+    color: darkorange;
+}
+
+.color-food {
+    color: rgb(190, 10, 70);
+}
+
+p {
+    text-align: left;
+    margin-bottom: 50px;
+    font-size: 20px;
+    color: rebeccapurple;
+}
+
+.order-button {
+    background-color: orangered;
+    text-decoration: none;
+    text-align: center;
+    padding: 10px 30px;
+    color: black;
+    border-radius: 20px;
+    font-weight: bold;
+}
+
+.order-button:hover {
+    color: white;
+}
+
+.first-section-div {
+    width: 50%;
+}
+
+.first-section-div img {
+    width: 100%;
+}
+
+.container {
+    display: flex;
+    margin-left: 50px;
+    margin-bottom: 50px;
+}
+
+.secand-section-div {
+    width: 50%;
+}
+
+.secand-section-div img {
+    width: 500px;
+    height: 500px;
+}
+
+.food-list {
+    background-color: orangered;
+    text-decoration: none;
+    text-align: center;
+    padding: 10px 30px;
+    color: navy;
+    border-radius: 20px;
+    font-weight: bold;
+}
+
+.food-list:hover {
+    color: white;
+}
+
+.background-div {
+    background-image: url(images/shapes/7.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
+
+.diet {
+    height: 50%;
+    width: 50%;
+    margin: auto;
+    text-align: center;
+}
+
+.racepies-item img {
+    width: 350px;
+    box-shadow: 10px 10px 5px gray;
+    border-radius: 20px;
+
+}
+
+.racepies-item {
+    padding-right: 50px;
+    margin-bottom: 100px;
+}
+
+.flowers {
+    text-align: center;
+    margin-left: 200px;
+    box-shadow: 10px 5px 10px gray;
+}
+
+.last {
+    color: whitesmoke;
+}
+
+.last-p {
+    color: whitesmoke;
+    text-align: center;
+}
+
+.footer-stop {
+    background: darkslategrey;
+    text-align: center;
+    padding-bottom: 50px;
+    padding-top: 20px;
+}
